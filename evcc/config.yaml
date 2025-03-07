@@ -1,9 +1,9 @@
 ---
 name: evcc
-version: 0.200.8
-slug: evcc
-description: EV Charge Controller!
-url: https://github.com/evcc-io/evcc
+version: 0.999.0
+slug: evcc-huawei
+description: HUAWEI EV Charge Controller!
+url: https://github.com/DanielaSe/evcc-huawei.git
 arch:
   - armhf
   - armv7
