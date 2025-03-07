@@ -1,5 +1,5 @@
 ---
-name: evcc
+name: evcc-huawei
 version: 0.200.8
 slug: evcc-huawei
 description: HUAWEI EV Charge Controller!
